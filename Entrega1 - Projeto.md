@@ -1,6 +1,7 @@
 Disciplina: MAE5904 - Aprendizagem estatística em altas dimensões, 2019.2 <br/>
 Professora: Florencia Leonardi <br/>
 Trabalho em grupo: entrega 1 <br/>
+<br/>
 Grupo: 6 <br/>
 Membros do grupo: Bruno Casaes Teixeira, Juliana Daikawa, Kévin Allan Sales Rodrigues, Vitoria de Oliveira Silva. <br/>
 
